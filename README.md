@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 **About Me**<br><br>I build and optimize AI image and video generation systems with a strong focus on **ComfyUI**, **RunPod Serverless**, and scalable **agentic workflows** 🤖.  <br>I enjoy turning complex pipelines into reliable, production-ready tools that creators and teams can actually use ⚙️.  <br>Lately, I’ve been deep into automation, character consistency, and high-performance GPU setups 🔥.  <br>Always experimenting, always optimizing — ask me anything about AI infrastructure and workflows.<br>
+I build and optimize AI image and video generation systems with a strong focus on **ComfyUI**, **RunPod Serverless**, and scalable **agentic workflows** 🤖.  <br>I enjoy turning complex pipelines into reliable, production-ready tools that creators and teams can actually use ⚙️.  <br>Lately, I’ve been deep into automation, character consistency, and high-performance GPU setups 🔥.  <br>Always experimenting, always optimizing — ask me anything about AI infrastructure and workflows.<br>
 
 
 ## 🌐 Socials:
